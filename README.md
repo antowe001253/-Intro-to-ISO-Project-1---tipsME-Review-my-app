@@ -18,6 +18,8 @@ Time spent: 8 hours
 
 ##Video Walkthough
 Here is a walkthrough of implemented user stories:
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 ##Notes
 The challenges I encountered was to ceate a back button using bar controller. I also wanted to flip the page a certain way when I move from ViewController to SettingViewController, but when I used the back button, all the data in the viewController was lost. 
