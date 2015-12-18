@@ -8,8 +8,8 @@ Time spent: 8 hours
 - Setting page to change the default tip percentage
 
 ##The following optin=onal features are implemented:
--UI animation
--Making sure the keyboard is always visible and the bill amount is always first to responder. This was the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+- UI animation
+- Making sure the keyboard is always visible and the bill amount is always first to responder. This was the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 ##The following additional features are implemented:
 - Add the theme.
@@ -24,7 +24,7 @@ The challenges I encountered was to ceate a back button using bar controller. I 
 
 ## License
 
-  Copyright [yyyy] [name of copyright owner]
+  Copyright [2015] [Alex Ntowe]
 
   Licensed under the Apache License, Version 2.0 (the "License");
   you may not use this file except in compliance with the License.
