@@ -9,7 +9,7 @@ Time spent: 8 hours
 
 ##The following optin=onal features are implemented:
 -UI animation
-Making sure the keyboard is always visible and the bill amount is always first to responder. This was the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+-Making sure the keyboard is always visible and the bill amount is always first to responder. This was the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 ##The following additional features are implemented:
 - Add the theme.
