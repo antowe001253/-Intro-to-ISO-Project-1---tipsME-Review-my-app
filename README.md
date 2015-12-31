@@ -18,7 +18,7 @@ Time spent: 8 hours
 
 ##Video Walkthough
 Here is a walkthrough of implemented user stories:
-<img src='https://github.com/antowe001253/-Intro-to-ISO-Project-1---tipsME-Review-my-app/blob/master/tipsMeRecording.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='tipsMeRecording.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ##Notes
