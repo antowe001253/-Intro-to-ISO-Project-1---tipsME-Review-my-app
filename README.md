@@ -1,7 +1,7 @@
 ## -Intro-to-ISO-Project-1---tipsME-Review-my-app
 tipsMe is a tip calculator application for IOS.
 Submitted by Alex Ntowe
-Time spent: 8 hours
+Time spent: 9 hours
 
 ##The following required functionality is complete:
 - User can enter a bill amount, choose a tip percentage, and see the tip and total values.
