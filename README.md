@@ -15,7 +15,7 @@ Time spent: 8 hours
 - Add the theme.
 - In the settingm, the user has the option to change the theme color
 - Bill amount for more than one person is displayed on the main screen
-
+ 
 ##Video Walkthough
 Here is a walkthrough of implemented user stories:
 <img src='tipsMeRecording.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
